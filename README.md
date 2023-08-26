@@ -1,2 +1,2 @@
-# weeditz
-Image/Photo and video editing
+#weeditz
+Editing website
